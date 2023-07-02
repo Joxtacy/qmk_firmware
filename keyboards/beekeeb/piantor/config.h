@@ -15,3 +15,6 @@
 
 // When USB_VBUS_PIN is not defined, SPLIT_USB_DETECT is used.
 #define USB_VBUS_PIN GP29 // for WeAct
+
+// Setting for the TT keycode
+#define TAPPING_TOGGLE 2
